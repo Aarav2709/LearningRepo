@@ -1,6 +1,5 @@
 # LearningRepo
-My repository, where I learn new languages! This repository consists languages such ass :
+My repository, where I learn new languages! This repository consists languages such as :
 1) Python - [Progress](https://cs50.me/cs50p)
 
-More will be added soon!
-I have tried my best to comment it properly and use all iterations and versions in previous commits as well.
+More to come as I learn. This includes the links for the courses that I did, all proper commented code, original website's test, etc.
