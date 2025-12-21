@@ -1,4 +1,4 @@
-# Entering Numbers.
+# Entering Numbers. Floats are used for decimals.
 x = float(input("Enter a number: "))
 y = float(input("Enter another one: "))
 
