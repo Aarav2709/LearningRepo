@@ -1,6 +1,16 @@
-# Asking for integer.
-n = int(input("Enter how many times you want to loop: "))
+# Storing number as string.
+n = int(input("Enter the number of times you wanna meow: "))
 
-# Run loop.
-for i in range(0, n):
-    print("Meow!")
+
+# Calling the string.
+def main():
+    meow(n)
+
+
+# Main logic.
+def meow(n):
+    for _ in range(n):
+        print("Meow!")
+
+
+main()
