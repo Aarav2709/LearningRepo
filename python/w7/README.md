@@ -1,4 +1,6 @@
 # Week 7 : Regular Expressions!
+
+## What did I learn?
 - Regular Expressions
 - Regexes
 - `re`
@@ -8,3 +10,6 @@
 - `re.sub`
 - `re.split`
 - `re.findall`
+
+## References!
+<img src = "references/img1.png">
