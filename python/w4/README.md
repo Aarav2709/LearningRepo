@@ -1,0 +1,21 @@
+# Week 4 : Libraries!
+- Modules
+- `random`
+- `import`
+- `from`
+- `statistics`
+- Command-Line Arguments
+- `sys`
+- `sys.argv`
+- `IndexError`
+- `sys`
+- `exit`
+- Slices
+- Packages
+- PyPI
+- `pip`
+- `cowsay`
+- APIs
+- requests
+- JSON
+- `__name__`

@@ -1,0 +1,11 @@
+# Week 2 : Loops!
+- `while`
+- `for`
+- `list`
+- `range`
+- `continue`
+- `break`
+- `list`
+- `len`
+- `dict`
+- `None`
