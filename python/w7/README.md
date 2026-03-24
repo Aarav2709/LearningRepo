@@ -10,6 +10,3 @@
 - `re.sub`
 - `re.split`
 - `re.findall`
-
-## References!
-<img src = "references/img1.png">
