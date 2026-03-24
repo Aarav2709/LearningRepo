@@ -40,3 +40,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# self-note: I didn't add comments, just figure out stuff yourself from the python docs IG.
