@@ -1,0 +1,23 @@
+# Week 9 : Et Cetera!
+
+- https://docs.python.org
+- `set`
+- `global`
+- Constants
+- Type Hints
+- mypy
+- Docstrings
+- https://peps.python.org
+- `argparse`
+- Unpacking
+- *args
+- **kwargs
+- `print`
+- `map`
+- List Comprehensions
+- `filter`
+- Dictionary Comprehensions
+- `enumerate`
+- Generators
+- `yield`
+- Iterators
