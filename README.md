@@ -4,10 +4,9 @@ My repository, where I learn new languages :D
 ---
 
 ### 1) <u>Python</u>:
-- [Progress](https://cs50.me/cs50p)
-- [Problems Repo](https://github.com/code50/103264776)
-- [Certificate](https://comingsoon.com)
-- Time Period -> 22/12/25 to ???
+- [Video](https://youtu.be/bFum_sUa3hU?si=oaFFf3He_fZycueJ)
+- [Certificate](https://certificates.cs50.io/ea270044-2e17-4602-be6c-badad692a470.pdf)
+- Time Period -> 22/12/25 to 25/03/26 [delayed due to boards.]
 
 ---
 

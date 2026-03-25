@@ -1,0 +1,37 @@
+# Markalyzer
+#### Video Demo: https://youtu.be/bFum_sUa3hU?si=oaFFf3He_fZycueJ
+#### Description:
+- markalyzer is a command line python program that analyzes student marks.
+- it allows users to enter multiple subjects and their marks.
+- the program calculates overall percentage using average of marks.
+- it assigns grades based on predefined conditions.
+- it identifies the highest scoring subject.
+- it identifies the lowest scoring subject.
+- it analyzes consistency by comparing variation in marks.
+- it determines whether performance is consistent or inconsistent.
+- it generates advice based on strengths and weaknesses.
+- it highlights strong subjects for confidence.
+- it suggests improvement areas for weak subjects.
+- it converts raw data into meaningful insights.
+- the program is structured using multiple functions.
+- each function handles a specific task for clarity.
+- main function controls overall execution flow.
+- calculate percentage computes average performance.
+- assign grade maps percentage to grade levels.
+- find extremes identifies highest and lowest marks.
+- generate advice creates performance suggestions.
+- validate marks ensures correct user input.
+- input validation prevents invalid values.
+- the program uses loops and conditionals.
+- it uses dictionaries to store subject marks.
+- the design improves readability and maintainability.
+- unit tests are included using pytest.
+- tests verify correctness of important functions.
+- the project demonstrates core python concepts.
+- it includes functions, loops, conditionals and testing.
+- it is simple but logically structured.
+- it focuses on clarity and usefulness.
+- it provides a balance between simplicity and depth.
+- the project is easy to understand and explain.
+- it is suitable for beginner to intermediate level.
+- it fulfills all cs50 project requirements.
