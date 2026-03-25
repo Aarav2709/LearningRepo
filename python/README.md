@@ -5,4 +5,6 @@ So this folder consists of CS50 Python Course that is hosted by Harvard // MIT, 
 <img src = "assets/CS50P.png">
 
 # Video
-<video src = "assets/CS50P.mp4">
+https://github.com/user-attachments/assets/014b161f-874e-41ab-8d49-d2646c153af0
+
+
