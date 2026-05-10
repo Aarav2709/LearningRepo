@@ -12,11 +12,9 @@ def main(): # this is my project. the main function is responsible for intaking 
     print("lowest:", lowest)
     print("advice:", advice)
 
-
 def get_subjects(): # here, the user inputs the subjects, and all the values are converted into lowercase and trailing whitespaces are also removed.
     subjects = input("enter subjects separated by comma: ").lower().split(",")
     return [s.strip() for s in subjects if s.strip()] # each value is stored as a key.
-
 
 def get_marks(subjects): # here, we ask the user to input their marks.
     marks = {}
@@ -30,11 +28,9 @@ def get_marks(subjects): # here, we ask the user to input their marks.
                 print("invalid input!")
     return marks
 
-
 def calculate_percentage(marks): # the percentage is calculate by summing up all the values and dividing it.
     total = sum(marks.values())
     return total / len(marks)
-
 
 def assign_grade(percentage): # the values are then passed on and the percentage is used to assign a grade to the user.
     if percentage >= 90:
@@ -70,13 +66,11 @@ def generate_advice(marks): # advice is generated, using the "find_extremes" fun
 
     return f"strong in {strong}, improve in {weak}, {consistency}."
 
-
 def validate_marks(value): # marks are validated and ensured its between 0 to 100.
     if value.isdigit():
         num = int(value)
         return 0 <= num <= 100
     return False
-
 
 if __name__ == "__main__": # execute.
     main()
