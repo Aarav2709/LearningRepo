@@ -6,7 +6,7 @@ My repository, where I learn new languages :D
 - [Certificate](https://certificates.cs50.io/ea270044-2e17-4602-be6c-badad692a470.pdf)
 - Time Period -> 22/12/25 to 25/03/26 [delayed due to boards.]
 
-### 2) <u>CS50Web</u>
+### 2) <u>CS50W</u>
 - [Video]()
 - [Certificate]()
 - Time Period -> 10/07/26 to xx/yy/zz

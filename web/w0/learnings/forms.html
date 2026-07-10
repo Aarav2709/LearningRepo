@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Forms!</title>
+</head>
+
+<body>
+  Enter your credentials.
+  <form>
+
+    <div>
+      <input name="name" type="text" placeholder="Username">
+      <input name="password" type="password" placeholder="Password">
+    </div>
+
+    <div>
+      What's your favorite color?
+      <input name="color" type="radio" value="Black"> Black
+      <input name="color" type="radio" value="White"> White
+    </div>
+
+    <div>
+      What country do you belong to?
+      <input name="country" list="countries" placeholder="Country">
+      <datalist id="countries">
+        <option value="India"></option>
+        <option value="Other"></option>
+      </datalist>
+    </div>
+
+  </form>
+</body>
+
+</html>
