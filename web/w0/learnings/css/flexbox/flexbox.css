@@ -1,0 +1,12 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#container > div {
+  background-color: blue;
+  font-size: 20px;
+  margin: 20px;
+  width: 200px;
+  padding: 20px;
+}
