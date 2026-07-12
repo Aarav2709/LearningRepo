@@ -1,4 +1,7 @@
-h1 {
+#first {
   color: blue;
-  text-align: center;
+}
+
+#second {
+  color: blueviolet;
 }

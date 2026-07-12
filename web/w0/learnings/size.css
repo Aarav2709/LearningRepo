@@ -1,5 +1,6 @@
 div {
   background-color: red;
+  border: 3px solid black;
   width: 200px;
   height: 200px;
   padding: 20px;
