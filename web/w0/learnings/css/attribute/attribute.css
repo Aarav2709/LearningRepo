@@ -1,0 +1,11 @@
+a {
+  color: black;
+}
+
+a [href="https://reddit.com"] {
+  color: red;
+}
+
+a [href="https://google.com"] {
+  color: green;
+}
