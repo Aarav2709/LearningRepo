@@ -7,3 +7,5 @@ if unit == "C":
 elif unit == "F":
   temp = round((temp - 32) * 5 / 9, 1)
   print(f"The temperature is {temp}C!")
+else:
+  print(f"{unit} is an invalid unit!")
