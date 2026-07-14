@@ -1,7 +1,7 @@
 # LearningRepo
 My repository, where I learn new languages :D
 
-### 1) <u>CS50P</u>:
+### 1) <u>CS50P</u>
 - [Video](https://youtu.be/bFum_sUa3hU?si=oaFFf3He_fZycueJ)
 - [Certificate](https://certificates.cs50.io/ea270044-2e17-4602-be6c-badad692a470.pdf)
 - Time Period -> 22/12/25 to 25/03/26 [delayed due to boards.]
