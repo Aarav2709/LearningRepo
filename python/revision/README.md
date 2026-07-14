@@ -6,3 +6,4 @@
 
 ## Progress
 - Day 1 Progress: (02:58:20/12:00:00)
+- Day 2 Progress: (3:24:00/12:00:00)
